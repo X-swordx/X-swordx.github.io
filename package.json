@@ -1,0 +1,22 @@
+{
+  "name": "babel-plugin-template",
+  "version": "0.0.1",
+  "description": "babel plugin to ...",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest test/"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+  ],
+  "author": "Xsword",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/template": "^7.7.4"
+  },
+  "devDependencies": {
+    "babel-plugin-tester": "^8.0.1",
+    "jest": "^24.9.0"
+  }
+}
